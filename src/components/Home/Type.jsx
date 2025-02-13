@@ -9,7 +9,7 @@ const Type = () => {
               "MERN Stack Developer",
               "Passionate Bug Hunter",
               "Full Stack Java Learning",
-              "Effective Problem Solver"
+              "Effective Problem Solver "
             ],
             autoStart: true,
             loop: true,
