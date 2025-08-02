@@ -30,7 +30,7 @@ const About = () => {
                 <br />
                   As a
                   <b className="yellow"> Full-Stack </b>developer,  
-                  I enjoy tackling new challenges and continuously expanding my skillset.
+                  I enjoy solving new problems and continuously expanding my skillset.
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
